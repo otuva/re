@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: 'https://pandermatt.ch/404'
+redirect: 'https://otuva.io/404'
 ---
